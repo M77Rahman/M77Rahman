@@ -1,30 +1,35 @@
 # 👋 Hi there, I'm **Muhammad Emdadur Rahman**
 
-> 🎓 Recent Computing Graduate | 💻 Tech Explorer | 🔍 Aspiring Tech Apprentice  
-> 🚀 Exploring multiple tech pathways – from automation to cybersecurity and data analytics  
-> 📈 Currently building real-world projects to strengthen my portfolio and skills
+> 🎓 Recent Computing Graduate | 💻 Tech Enthusiast | 🔍 Aspiring Tech Apprentice  
+> 🚀 Exploring diverse tech pathways — from automation and cybersecurity to game development and data analytics  
+> 📈 Continuously developing real-world projects to grow my skills and strengthen my portfolio
 
 ---
 
 ### 💼 About Me
-I'm a passionate and curious learner with hands-on experience in Python, JavaScript, Java, and SQL. I'm actively exploring various tech apprenticeships to find where I best fit within the tech world. From automation tools to web apps, I love solving real-world problems with code.
+I'm a passionate and driven learner with hands-on experience in **Python**, **JavaScript**, **Java**, **SQL**, **Flask**, and **GitHub**. As an aspiring tech apprentice, I'm exploring various areas of technology, including **automation**, **cybersecurity**, **game development**, and **data analytics**. My goal is to solve real-world problems with innovative coding solutions while continuously expanding my technical expertise.
+
+Currently, I'm working on a range of projects, including **Flask web apps**, **automation scripts**, and **cybersecurity labs**. I'm focused on building a strong portfolio to showcase my skills and demonstrate my ability to work on impactful projects. I'm actively looking for opportunities to apply my knowledge in a practical setting through tech apprenticeships.
 
 ---
 
 ### 🧠 Tech Stack & Tools
 
 | Language | Tools & Frameworks | Interests |
-|----------|---------------------|-----------|
-| Python 🐍 | Git, GitHub, VS Code | Automation 🤖 |
-| JavaScript ⚡ | Linux, Node.js, HTML/CSS | Cybersecurity 🛡️ |
-| Java ☕ | SQL, MongoDB | Data Analytics 📊 |
+|----------|--------------------|-----------|
+| Python 🐍 | Git, GitHub, VS Code, Flask | Automation 🤖 |
+| JavaScript ⚡ | Linux, Node.js, HTML/CSS, Flask | Cybersecurity 🛡️ |
+| Java ☕ | SQL, MongoDB, GitHub Actions | Data Analytics 📊 |
+| HTML/CSS 🌐 | Gunicorn, Heroku | Web Development 💻 |
 
 ---
 
 ### 🚧 Current Projects
-- 🛠️ **Automation Scripts** – Building Python tools to simplify daily tasks
-- 🌍 **Web Projects** – Designing responsive web pages using HTML, CSS & JavaScript
-- 🕵️‍♂️ **Cybersecurity Labs** – Practicing ethical hacking and security basics
+- 🛠️ **Automation Scripts** – Building Python tools to simplify daily tasks and boost productivity
+- 🌍 **Flask Portfolio** – A personal web portfolio showcasing my tech projects and GitHub (Deployed on Heroku)
+- 🕵️‍♂️ **Cybersecurity Labs** – Practicing ethical hacking and security basics in controlled environments
+- 🎮 **Game Development** – Working on a simple CLI-based **Rock-Paper-Scissors** game and exploring **2D platformer** development
+- 📚 **Cyber Awareness Quiz App** – A web-based Flask app designed to educate users on online safety through quizzes
 
 ---
 
@@ -40,20 +45,11 @@ I'm a passionate and curious learner with hands-on experience in Python, JavaScr
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/emdadurrahman)
 - 📧 Email: emdadur.dev@gmail.com
-- 🌟 Portfolio: *Coming soon!*
+- 🌟 Portfolio: [**Muhammad Emdadur Rahman’s Portfolio**](https://damp-escarpment-88970-ea9280b1d573.herokuapp.com/) (Deployed on Heroku)
+- 🔗 GitHub: [M77Rahman](https://github.com/M77Rahman)
 
 ---
 
 ### 🧭 Fun Fact
-> I'm on a mission to turn curiosity into code — one project at a time.
-
----
-
-*“Always learning, always building.”*
-
----
-
-<!---
-M77Rahman/M77Rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> I'm on a mission to turn curiosity into code — one project at a time.  
+> I'm constantly exploring new challenges and expanding my tech knowledge.
